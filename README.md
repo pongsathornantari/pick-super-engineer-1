@@ -12,6 +12,12 @@ __________________________
 Result
 __________________________
 
-	Show the randomed name.
+	Show the randomed name and replace charecteristic with .(dot).
 
-
+Member
+__________________________
+ 
+	Integration Manager: Siriwimon Sunthon 
+	Developer Feature A: Arasa Uma
+	Developer Feature B: Ratchanan Sakdiyotintada 
+	Developer Feature C: Pongsathorn Antarikanon
