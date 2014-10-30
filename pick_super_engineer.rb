@@ -8,6 +8,11 @@ def pick_engineer()
 end
 
 def featureA(pick_engineer)
+<<<<<<< HEAD
+=======
+    puts pick_engineer
+    puts pick_engineer.to_s.gsub('','.')
+>>>>>>> 1343b84f51ccfe6c7f76552526938dfd5297bf50
 
 end
 
