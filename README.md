@@ -19,5 +19,5 @@ __________________________
  
 	Integration Manager: Siriwimon Sunthon 
 	Developer Feature A: Arasa Uma
-	Developer Feature B: Ratchanan Sakdiyotintada 
-	Developer Feature C: Pongsathorn Antarikanon
+	Developer Feature B: Pongsathorn Antarikanon 
+	Developer Feature C: Ratchanan Sakdiyotintada
