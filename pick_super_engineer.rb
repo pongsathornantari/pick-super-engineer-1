@@ -11,9 +11,14 @@ def featureA()
 
 end
 
-def featureB()
-
+def featureB(pick_engineer)
+	#print pick_engineer
+	pick =  pick_engineer.split(" ")
+	#pick[1].split(" ")
+	puts pick[0]+" "+pick[1][0]+"..."
+	
 end
+featureB(pick_engineer)
 
 def featureC()
 
