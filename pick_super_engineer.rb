@@ -10,6 +10,7 @@ end
 def featureA(pick_engineer)
     puts pick_engineer
     puts pick_engineer.to_s.gsub('','.')
+
 end
 featureA(pick_engineer)
 def featureB()
